@@ -122,6 +122,34 @@ color:#252432 ;
     border: 1px solid cornflowerblue
     border-radius: 6px;
     outline: none;
-    bo
     
+    
+}
+.review-section{ max-width: 1140px;
+    padding: 130px 150px;
+
+
+}
+.review-section h1{ text-align: center; font-size: 42px; font-weight: bold; color: #000;}
+
+.review-container{
+display: flex;
+justify-content: space-around;
+gap: 20px;
+
+}
+.heading-3{
+    font-size: 42px;
+}
+.heading-4{
+    font-size: 14px;
+}
+.container-1{
+    border: 1px solid rgb(223, 201, 201);
+   
+ padding: 24px 24px 24px 24px;
+    border-radius: 20px;
+    background-color:white
+    box-shadow: 0 2px  3px; rgba(48, 36, 36, 0.1);
+
 }
